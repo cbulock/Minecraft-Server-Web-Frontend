@@ -1,0 +1,7 @@
+<?php
+define('API_HOST','localhost');
+define('API_PORT','20059');
+define('API_USER','');
+define('API_PASS','');
+define('API_SALT','');
+?>
